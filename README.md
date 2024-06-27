@@ -1,4 +1,8 @@
-[DEMO](https://mytodoplan.netlify.app/)
+# Demo
+<a href="https://mytodoplan.netlify.app/">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
